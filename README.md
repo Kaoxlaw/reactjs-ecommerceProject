@@ -1,4 +1,4 @@
-#**ReactJS - Ecommerce Project**
+# **ReactJS - Ecommerce Project**
 
 First, Thanks to Zhang.M Yihua for the Project
 

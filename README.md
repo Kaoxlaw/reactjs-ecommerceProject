@@ -2,14 +2,20 @@
 
 First, Thanks to Zhang.M Yihua for the Project
 
-Then, You can start by get my _repo_ by typping:
+Now you can start by getting my _repo_ by typping:
 
 ```
 # git clone https://github.com/Kaoxlaw/reactjs-ecommerceProject.git
 ```
 
-And _Install_
+And _Install_ the project
 
 ```
-# yarn | npm install
+# yarn install
+```
+
+Then _Start_ the project
+
+```
+# yarn start
 ```
